@@ -1,5 +1,6 @@
 {
   "name": "reactlab",
+  "homepage": "https://kpalollis.github.io/Simple-Calculator-App-using-React/",
   "private": true,
   "dependencies": {
     "coder": "^1.0.0",
